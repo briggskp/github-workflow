@@ -13,11 +13,11 @@ Name: ____Kaelin Briggs______________
 3. Create a .gitignore file and put [contents](#.gitignore) in it.
 4. Edit the README.md file to add your name to it.
 5. Commit and push the README.md file to your Github account.
-6. Create an 'AboutMe' website. This website should follow the file structure of the given project. I don't expect too much for this first assignment, but I do excpect use of a CSS file over <style> tags. Apply any knowledge you remember from CSCI 115. You can even recycle code from your past work. The main thing is knocking off the rust and going through the workflow. This project should also let me get to know you a little better.
+6. Create an 'AboutMe' website. This website should follow the file structure of the given project. I don't expect too much for this first assignment, but I do expect use of a CSS file over <style> tags. Apply any knowledge you remember from CSCI 115. You can even recycle code from your past work. The main thing is knocking off the rust and going through the workflow. This project should also let me get to know you a little better.
  
  When you are complete with your project, commit and push files to GitHub.
  
- ***Note:*** Any issues you have with either the GitHub steps or HTML/CSS questions should be asked publically in Piazza. If you have a question, chances are someone else does also. If you see someone has posted a question on Piazza and you know the answer, please chime in and answer. This might seem rough at the beginning, but I promise it will get easier.
+ ***Note:*** Any issues you have with either the GitHub steps or HTML/CSS questions should be asked publicly in Piazza. If you have a question, chances are someone else does also. If you see someone has posted a question on Piazza and you know the answer, please chime in and answer. This might seem rough at the beginning, but I promise it will get easier.
 
 # .gitignore
 

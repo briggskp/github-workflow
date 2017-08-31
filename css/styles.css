@@ -1,0 +1,61 @@
+
+html {
+    padding-top: 25px;
+}
+
+body {
+    background-color: rgb(118, 213, 232);
+    color: #221811;
+    font-family: 'Varela Round', Helvetica, sans-serif;
+}
+
+header {
+    background-color: #D2B48C;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+img {
+    width: 380px;
+
+}
+
+h1 {
+    line-height: 200%;
+    margin: 0;
+}
+
+nav {
+    text-align: left;
+    font-weight: normal;
+    padding: 5px 10px;
+}
+
+footer {
+    background-color: rgb(114,208,232);
+    clear: both;
+    padding: 5px 10px;
+    font-size: .60em;
+    text-align: center;
+    font-style: italic;
+}
+
+#wrap {
+    width: 785px;
+    margin: 0 auto;
+}
+
+#column1 {
+    float: left;
+    width: 480px;
+    padding: 10px;
+    background-color: white;
+
+}
+
+#column2 {
+    float: right;
+    width: 230px;
+    padding: 10px;
+    background-color: white;
+}
